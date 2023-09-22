@@ -1,9 +1,8 @@
-[![MasterHead](https:// 1.bp.blogspot.com/-7A4WynwLsM...)]
 
 <h1 align="center">Hi 👋, I'm mustafa hakim</h1>
 <h3 align="center">A passionate software engineer from kurdistan</h3>
 
-<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/116207.">
+<img align="right" alt="Coding" width="400" src="https://media.giphy.com/media/VTtANKl0beDFQRLDTh/giphy.gif?cid=ecf05e472p528pexpcfhk0ipoezii34n94r9m1htx7q7hm6a&ep=v1_gifs_related&rid=giphy.gif&ct=g ">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=tokyo696901&label=Profile%20views&color=0e75b6&style=flat" alt="tokyo696901" /> </p>
 
